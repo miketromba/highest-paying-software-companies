@@ -6,7 +6,7 @@ The levels.fyi website only shows the top 20 paying companies, so here's a more 
 
 - Sample size or accuracy of the self-reports is not considered, at all.
 - The table would vary wildly if it were broken down by seniority or the numerous other factors that affect comp. (new offer?, location, etc.)
-- There are plenty of companies that lack enough data for levels to compute and provide a median... those are filtered out.
+- There are plenty of companies that lack enough data for levels.fyi to compute and provide a median... those are filtered out.
 - Something something take it with a grain of salt.
 
 The data is simply based on median software engineer total comp as it appears on levels.fyi as of 12/1/23.
