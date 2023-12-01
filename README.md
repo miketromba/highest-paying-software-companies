@@ -2,7 +2,17 @@
 
 The levels.fyi website only shows the top 20 paying companies, so here's a more comprehensive list.
 
-The data is based on median software engineer total comp on levels.fyi as of 12/1/23. Keep in mind, if you're on the more junior or senior ends of the spectrum, the rankings in this list might vary significantly.
+**This is NOT a rigorous analysis. The data is deeply abstracted from reality. It's just meant to serve as a (very) rough indication of which companies tend to pay the most for software engineering related roles.**
+
+- Sample size or accuracy of the self-reports is not considered, at all.
+- The table would vary wildly if it were broken down by seniority or the numerous other factors that affect comp.
+- Something something take it with a grain of salt blah blah.
+
+The data is simply based on median software engineer total comp on levels.fyi as of 12/1/23.
+See the little gray text? That's where it comes from.
+
+![image](https://github.com/miketromba/highest-paying-software-companies/assets/25141252/89073627-0974-4f70-a96f-15b55af0f431)
+
 
 | Total Comp (by thousand USD) | Company ID | Levels.fyi URL |
 |------------------------------|------------|----------------|
