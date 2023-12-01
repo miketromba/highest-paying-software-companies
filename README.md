@@ -1,5 +1,5 @@
 # The 500 Highest Paying Software / Tech Companies
-The top 500 highest paying companies based on median software engineer total comp on levels.fyi as of 12/1/23.
+The data is based on median software engineer total comp on levels.fyi as of 12/1/23. Keep in mind, if you're on the more junior or senior ends of the spectrum, the rankings in this list might vary significantly.
 
 The levels.fyi website only shows the top 20 paying companies, so here's a more comprehensive list.
 
