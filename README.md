@@ -1,4 +1,4 @@
-# The 500 Highest Paying Software / Tech Companies (as of December 2023)
+# The 500 Highest Paying Software / Tech Companies
 The top 500 highest paying companies based on median software engineer total comp on levels.fyi as of 12/1/23.
 
 | Total Comp (by thousand USD) | Company ID | Levels.fyi URL |
