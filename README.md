@@ -1,6 +1,8 @@
 # Highest Paying Software / Tech Companies 2023
 The top 500 highest paying companies based on median software engineer total comp on levels.fyi as of 12/1/23.
 
+| Total Comp (by thousand USD) | Company ID | Levels.fyi URL |
+|------------------------------|------------|----------------|
 925 | openai | https://levels.fyi/company/openai/salaries/software-engineer
 600 | coupang | https://levels.fyi/company/coupang/salaries/software-engineer
 566 | clubhouse | https://levels.fyi/company/clubhouse/salaries/software-engineer
