@@ -1,4 +1,4 @@
-# The 500 Highest Paying Software / Tech Companies
+# The 500 Highest Paying Companies for Software Engineers
 
 The levels.fyi website only shows the top 20 paying companies, so here's a more comprehensive list.
 
