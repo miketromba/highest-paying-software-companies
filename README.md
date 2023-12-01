@@ -6,9 +6,10 @@ The levels.fyi website only shows the top 20 paying companies, so here's a more 
 
 - Sample size or accuracy of the self-reports is not considered, at all.
 - The table would vary wildly if it were broken down by seniority or the numerous other factors that affect comp. (new offer?, location, etc.)
-- Something something take it with a grain of salt blah blah.
+- There are plenty of companies that lack enough data for levels to compute and provide a median... those are filtered out.
+- Something something take it with a grain of salt.
 
-The data is simply based on median software engineer total comp on levels.fyi as of 12/1/23.
+The data is simply based on median software engineer total comp as it appears on levels.fyi as of 12/1/23.
 See the little gray text? That's where it comes from.
 
 ![image](https://github.com/miketromba/highest-paying-software-companies/assets/25141252/89073627-0974-4f70-a96f-15b55af0f431)
