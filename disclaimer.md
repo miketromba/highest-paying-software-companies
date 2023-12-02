@@ -33,7 +33,7 @@ In this list, it might be wrong.
 But if you're seeking a software role,  
 This list might just help you reach your goal.
 
-So scroll on, reader, with a light heart,  
-In this data dance, you’re just a part.  
-A list of 500, not carved in stone,  
-In the digital sea, just a playful tone.
+So browse with a smile, not a furrowed brow,  
+For this list is a guide, not a solemn vow.  
+A playful hint in a digital sea,  
+A light beacon for where opportunities might be.
