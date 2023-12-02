@@ -2,6 +2,8 @@
 
 The levels.fyi website only shows the top 20 paying companies, so here's a more comprehensive list.
 
+### Disclaimer ([poem version](/disclaimer.md))
+
 **This is NOT a serious analysis. The data is deeply removed from reality. It's just meant to serve as a very, very, very rough list of 500 companies that tend to pay a relatively high amount for software engineering related roles. If you use it for anything more than that, you’re using it wrong.**
 
 - Sample size or accuracy of the self-reports is not considered, at all.
