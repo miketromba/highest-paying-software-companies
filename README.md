@@ -10,7 +10,7 @@ The levels.fyi website only shows the top 20 paying companies, so here's a more 
 - Something something take it with a grain of salt.
 
 The data is simply based on median software engineer total comp as it appears on levels.fyi as of 12/1/23.
-See the little gray text? That's where it comes from.
+See the small gray text? That's where it comes from.
 
 ![image](https://github.com/miketromba/highest-paying-software-companies/assets/25141252/89073627-0974-4f70-a96f-15b55af0f431)
 
