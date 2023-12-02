@@ -2,11 +2,12 @@
 
 The levels.fyi website only shows the top 20 paying companies, so here's a more comprehensive list.
 
-**This is NOT a rigorous analysis. The data is deeply detached from reality. It's just meant to serve as a (very) rough indication of which companies tend to pay the most for software engineering related roles.**
+**This is NOT a serious analysis. The data is deeply removed from reality. It's just meant to serve as a very, very, very rough list of 500 companies that tend to pay a relatively high amount for software engineering related roles. If you use it for anything more than that, you’re using it wrong.**
 
 - Sample size or accuracy of the self-reports is not considered, at all.
 - The table would vary wildly if it were broken down by seniority or the numerous other factors that affect comp. (new offer?, location, etc.)
 - There are plenty of companies that lack enough data for levels.fyi to compute and provide a median... those are filtered out.
+- The median data point for one company might be mid-level while for another it’s staff-level… the order of the list is very low signal. (You can sometimes see the specific data point used by following the corresponding levels.fyi link.)
 - Something something take it with a grain of salt.
 
 The data is simply based on median software engineer total comp as it appears on levels.fyi as of 12/1/23.
