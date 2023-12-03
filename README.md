@@ -2,7 +2,7 @@
 
 ### Disclaimer ([poem version](/disclaimer.md))
 
-**This is NOT a serious analysis. The data is deeply removed from reality. It's just meant to serve as a very, very, very rough list of 500 companies that tend to pay a relatively high amount for software engineering related roles. If you use it for anything more than that, you’re using it wrong.**
+**This is NOT a serious analysis. It's just meant to serve as a very, very, very rough list of 500 companies that tend to pay a relatively high amount for software engineering related roles. If you use it for anything more than that, you’re using it wrong.**
 
 - Sample size or accuracy of the self-reports is not considered, at all.
 - The table would vary wildly if it were broken down by seniority or the numerous other factors that affect comp. (new offer?, location, etc.)
